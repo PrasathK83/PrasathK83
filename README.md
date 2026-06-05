@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prasath K</h1>
+<h1 align="center">Hi , I'm Prasath K</h1>
 
 <h3 align="center">
 Java Full Stack Developer | AI Enthusiast | Problem Solver
@@ -9,7 +9,7 @@ Java Full Stack Developer | AI Enthusiast | Problem Solver
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=PrasathK83&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -22,13 +22,13 @@ Java Full Stack Developer | AI Enthusiast | Problem Solver
 
 🚀 I enjoy building scalable applications, solving algorithmic problems, and exploring emerging technologies.
 
-🌱 Currently learning:
+  Currently learning:
 - Advanced Spring Boot
 - System Design
 - Deep Learning
 - Cloud Technologies
 
-⚡ Interests:
+  Interests:
 - Backend Development
 - Machine Learning
 - AI Applications
@@ -37,7 +37,7 @@ Java Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
 
-# 🛠️ Tech Stack
+#   Tech Stack
 
 ### Languages
 
@@ -72,9 +72,9 @@ Java Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
 
-# 🚀 Featured Projects
+#   Featured Projects
 
-## 🎯 Real Object Detection with Distance Measurement
+##   Real Object Detection with Distance Measurement
 
 **Tech Stack:** Python, YOLOv5, OpenCV, NumPy, pyttsx3
 
@@ -85,7 +85,7 @@ Java Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
 
-## ☁️ Mini Cloud Storage System
+##   Mini Cloud Storage System
 
 **Tech Stack:** Python, Flask, MySQL, JavaScript, HTML, CSS, Bootstrap
 
@@ -96,7 +96,7 @@ Java Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
 
-## 🌦️ Telegram Weather Chatbot
+##   Telegram Weather Chatbot
 
 **Tech Stack:** Python, Telegram Bot API, OpenWeatherMap API
 
@@ -107,7 +107,7 @@ Java Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
 
-## 🩺 Medibot – Medical Chatbot
+##   Medibot – Medical Chatbot
 
 **Tech Stack:** Python, NLP, Flask, HTML, CSS
 
@@ -118,7 +118,7 @@ Java Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
 
-## 🎮 Tic-Tac-Toe Game App
+##   Tic-Tac-Toe Game App
 
 **Tech Stack:** Android Studio, Java, XML
 
@@ -129,7 +129,7 @@ Java Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
 
-## ✍️ LinkedIn Content Creator
+##   LinkedIn Content Creator
 
 **Tech Stack:** Android Studio, Java, XML
 
@@ -140,7 +140,7 @@ Java Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
 
-## 🚚 Load Marker App
+##   Load Marker App
 
 **Tech Stack:** Android Studio, Java, SQLite
 
@@ -151,7 +151,7 @@ Java Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
 
-## 🌱 Plant Disease Detection System
+##   Plant Disease Detection System
 
 **Tech Stack:** Python, TensorFlow, OpenCV, Deep Learning
 
@@ -162,7 +162,7 @@ Java Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
 
-## 🎤 Voice Cloning System
+##   Voice Cloning System
 
 **Tech Stack:** Python, Deep Learning, Speech Processing
 
@@ -173,7 +173,7 @@ Java Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
 
-## 🎬 Movie Recommendation System
+##   Movie Recommendation System
 
 **Tech Stack:** Python, Pandas, NumPy, Scikit-Learn
 
@@ -184,67 +184,37 @@ Java Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
 
-# 📈 Coding Profiles
 
-- 🔗 LeetCode: YOUR_LEETCODE_LINK
-- 🔗 HackerRank: YOUR_HACKERRANK_LINK
-- 🔗 GitHub: https://github.com/YOUR_USERNAME
-- 🔗 LinkedIn: YOUR_LINKEDIN_LINK
-
----
-
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrasathK83&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasathK83&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+#   GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasathK83&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+#   Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrasathK83&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+#   GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PrasathK83&theme=tokyonight&row=1&column=7"/>
 </p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 <h3 align="center">
 💻 Building Solutions • Learning Every Day • Growing as a Developer 🚀
