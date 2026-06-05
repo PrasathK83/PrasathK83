@@ -185,37 +185,6 @@ Java Full Stack Developer | AI Enthusiast | Problem Solver
 ---
 
 
-#  GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrasathK83&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasathK83&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-#   GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasathK83&theme=tokyonight"/>
-</p>
-
----
-
-#   Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrasathK83&theme=tokyo-night"/>
-</p>
-
----
-
-#   GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PrasathK83&theme=tokyonight&row=1&column=7"/>
-</p>
-
 <h3 align="center">
-💻 Building Solutions • Learning Every Day • Growing as a Developer 🚀
+💻 Building Solutions • Learning Every Day • Growing as a Developer 
 </h3>
