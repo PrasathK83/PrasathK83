@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Prasath K</h1>
 
 <h3 align="center">
-Java Full Stack Developer | AI Enthusiast | Problem Solver
+Java Full Stack Developer | AI Enthusiast | Problem Solver | Python Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;Machine+Learning+Enthusiast;Android+Developer;Always+Learning+New+Technologies&center=true&width=650&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;Java+Developer;Spring+Boot+Developer;Backend+Developer;Machine+Learning+Enthusiast;Android+Developer;Always+Learning+New+Technologies&center=true&width=650&height=50">
 </p>
 
 <p align="center">
